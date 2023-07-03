@@ -5,4 +5,4 @@
 ①任意の音源(mp3やwav)をbluesoundと同じディレクトリに配置します。  
 ②デバイスのBluetooth用MACアドレスを配置します  
 ③配置した音源のファイル名をplay_soudに記載します(デフォルトではosaka.wavになっています)
-
+④linuxなどでhcitoolを入れて使ってみましょう
